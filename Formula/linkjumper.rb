@@ -1,8 +1,8 @@
 class Linkjumper < Formula
   desc "Local URL shortener for macOS — type go/gh instead of https://github.com"
   homepage "https://github.com/peterfrench/linkjumper"
-  url "https://github.com/peterfrench/linkjumper/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "0f41175679fd4f2279720ab1279fdac2b919dcb9e89e1bf1aafc288b230a8d46"
+  url "https://github.com/peterfrench/linkjumper/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "191075dc4b4078cdb2798947f567097720ff066a1d24f9ddfd00ed24dd3859b2"
   license "MIT"
 
   depends_on :macos
